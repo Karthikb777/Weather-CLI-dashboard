@@ -12,7 +12,7 @@ This uses json data from [openweathermap.org](https://openweathermap.org/) and d
 
 
 
-https://api.openweathermap.org/data/2.5/onecall?lat=<LATITUDE>&lon=<LONGITUDE>&units=metric&exclude=minutely,daily&appid=<YOUR API KEY>
+https://api.openweathermap.org/data/2.5/onecall?lat=LATITUDE&lon=LONGITUDE&units=metric&exclude=minutely,daily&appid=YOUR API KEY
 
 
 
